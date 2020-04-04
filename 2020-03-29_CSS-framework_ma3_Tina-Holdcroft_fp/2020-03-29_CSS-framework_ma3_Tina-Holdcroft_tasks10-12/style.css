@@ -1,0 +1,14 @@
+img {
+    width: 100%;
+}
+
+.form-group input {
+    border: solid #4CAF50;
+}
+
+.container {
+    padding-bottom: 10%;
+}
+.row {
+    padding-bottom: 2%;
+}
